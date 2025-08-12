@@ -45,3 +45,10 @@ Shape Wars is a fast-paced 2D clicking game built in C++ with SFML, featuring mu
 ```g++ main.cpp -o game.exe -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ```./game.exe
 
+
+
+
+https://github.com/user-attachments/assets/70e48ae1-97d1-4b80-9870-775a461b5e0c
+
+
+
