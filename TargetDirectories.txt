@@ -1,0 +1,3 @@
+C:/Users/Salar/Documents/ShapeWars/build/CMakeFiles/ShapeWars.dir
+C:/Users/Salar/Documents/ShapeWars/build/CMakeFiles/edit_cache.dir
+C:/Users/Salar/Documents/ShapeWars/build/CMakeFiles/rebuild_cache.dir
